@@ -7,9 +7,10 @@ This is an example to different parts of the GIT repository and using various co
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos used for git training.
 
 ## Deployment
+This is a simple web project, deployment can be done on any web server
 
 ## How to contribute
 
