@@ -13,6 +13,7 @@ Sample website with plenty of files for demos used for git training.
 This is a simple web project, deployment can be done on any web server
 
 ## How to contribute
+please fork this repository and then issue pull requests for review
 
 ## Copyright
 git training 2021 copyright notice to file
