@@ -14,3 +14,6 @@ This is a simple web project, deployment can be done on any web server
 
 ## How to contribute
 
+## Copyright
+Git training copyright notice 2021
+
