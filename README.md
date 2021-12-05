@@ -16,5 +16,5 @@ This is a simple web project, deployment can be done on any web server
 please fork this repository and then issue pull requests for review
 
 ## Copyright
-git training 2021 copyright notice to file
+2021 Git.Training. All rights reserved.
 
